@@ -1,4 +1,3 @@
-import sys
 import json
 import requests
 from flask import Blueprint, request, jsonify, render_template

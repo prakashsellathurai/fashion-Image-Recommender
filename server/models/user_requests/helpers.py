@@ -9,8 +9,6 @@ import uuid
 
 from google.cloud import firestore
 
-from .data_classes import User_Requests
-
 
 BUCKET = os.environ.get('GCS_BUCKET')
 
