@@ -2,14 +2,12 @@ import re
 import os
 import base64
 import time
-import sys
 import numpy as np
 import uuid
 import json
 import tensorflow as tf
-import requests
 from tensorflow.keras.models import Model
-from flask import Blueprint, request, jsonify
+from flask import jsonify
 from google.cloud import storage
 from annoy import AnnoyIndex
 

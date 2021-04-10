@@ -1,8 +1,8 @@
 from functools import wraps
 
 from flask_wtf import FlaskForm
-from wtforms import FieldList, FloatField, StringField
-from wtforms.validators import DataRequired, Optional
+from wtforms import StringField
+from wtforms.validators import DataRequired
 
 
 class UploadForm(FlaskForm):

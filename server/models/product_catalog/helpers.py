@@ -2,10 +2,7 @@
 """
 A collection of helper functions for product related operations.
 """
-
-from dataclasses import asdict
 import os
-import uuid
 
 from google.cloud import firestore
 

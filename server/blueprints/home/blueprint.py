@@ -3,8 +3,7 @@
 This module is the Flask blueprint for the product catalog page (/).
 """
 
-from flask import Blueprint, render_template, request, jsonify
-from models import product_catalog
+from flask import Blueprint, render_template
 
 home_page = Blueprint('home_page', __name__)
 
