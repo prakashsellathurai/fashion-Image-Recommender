@@ -1,6 +1,5 @@
 # Fashion Image Recommender
 
-![poster](./image_recommendation.png)
 
 ## Architecture
 
