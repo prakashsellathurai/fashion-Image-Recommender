@@ -35,5 +35,5 @@ tensorflow==2.5.2
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 urllib3==1.26.5
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 annoy==1.16.0
